@@ -1,7 +1,7 @@
 ﻿# lab4-variant03
 # Salary Calculator - Вариант 3
 
-![Salary Calculation](https://raw.githubusercontent.com/fatih/color/master/examples/color.png)
+
 
 ## Описание
 
@@ -15,5 +15,6 @@
 Проект использует внешний пакет [github.com/fatih/color](https://github.com/fatih/color) для цветного вывода отчета в консоли.
 
 ## Структура проекта
+
 
 
